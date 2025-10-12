@@ -9,3 +9,8 @@
 - ⚡ Fun fact: I enjoy turning complex systems into simple, scalable solutions — and I can debug better after a cup of chai ☕
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-RYAN-KR)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📊 My Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-RYAN-KR&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8)
+
