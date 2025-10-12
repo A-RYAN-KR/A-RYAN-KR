@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy turning complex systems into simple, scalable solutions — and I can debug better after a cup of chai ☕
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-RYAN-KR)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-RYAN-KR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 My Top Languages
 
