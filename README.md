@@ -5,14 +5,13 @@
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/aryan-jha-9376542bb/" height="25" alt="linkedin logo"  />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://jsdelivr.net" alt="LinkedIn Profile" height="40" width="40" />
+  </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 ###
 
