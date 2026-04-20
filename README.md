@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://jsdelivr.net" alt="LinkedIn Profile" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/aryan-jha-9376542bb/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkden-00FFFF" alt="LinkedIn Profile" height="40" width="40" />
   </a>
 </div>
 
