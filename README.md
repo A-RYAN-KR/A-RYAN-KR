@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Aryan.+%F0%9F%91%8B;Full-Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8be9fd&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Aryan.+%F0%9F%91%8B;Full-Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -79,20 +79,10 @@ I enjoy working with a variety of languages and tools, tailored specifically to 
 
 ---
 
-### 📊 GitHub Analytics & Streak
+### 📊 GitHub Streak Stats
 
 <p align="center">
   <a href="https://github.com/A-RYAN-KR">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=A-RYAN-KR&show_icons=true&theme=dracula&hide_border=false&border_radius=5" alt="Aryan's GitHub Stats" height="180" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/A-RYAN-KR">
-    <img src="https://streak-stats.demolab.com?user=A-RYAN-KR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="Aryan's Streak Stats" height="180" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/A-RYAN-KR">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=A-RYAN-KR&layout=compact&theme=dracula&hide_border=false&border_radius=5" alt="Aryan's Top Languages" height="180" />
+    <img src="https://streak-stats.demolab.com?user=A-RYAN-KR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="Aryan's Streak Stats" height="220" />
   </a>
 </p>
