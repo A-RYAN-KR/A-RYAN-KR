@@ -79,31 +79,20 @@ I enjoy working with a variety of languages and tools, tailored specifically to 
 
 ---
 
-### 🌟 Featured Projects
-
-Here are some of my top open-source projects on GitHub:
-
-| Project | Description | Primary Stack | Stars |
-| :--- | :--- | :--- | :--- |
-| 📦 [console-graph](https://github.com/A-RYAN-KR/console-graph) | A tiny, zero-dependency sparkline logger for the console. | TypeScript / JavaScript | ![Stars](https://img.shields.io/github/stars/A-RYAN-KR/console-graph?style=flat-square) |
-| 🔄 [Transpiler](https://github.com/A-RYAN-KR/Transpiler) | A source-to-source compiler translating Java code to C and Python. | Java / JavaScript | ![Stars](https://img.shields.io/github/stars/A-RYAN-KR/Transpiler?style=flat-square) |
-| 📶 [WiFi CSI Activity Recog](https://github.com/A-RYAN-KR/Human-Activity-Recognition-Using-WiFi-CSI) | Human activity recognition framework utilizing WiFi Channel State Information. | Python | ![Stars](https://img.shields.io/github/stars/A-RYAN-KR/Human-Activity-Recognition-Using-WiFi-CSI?style=flat-square) |
-| 🚀 [mern-gitops](https://github.com/A-RYAN-KR/mern-gitops) | MERN stack application deployed to EKS with ArgoCD, GitOps, and SonarQube pipelines. | TypeScript / DevOps | ![Stars](https://img.shields.io/github/stars/A-RYAN-KR/mern-gitops?style=flat-square) |
-| 🌐 [Portfolio Builder](https://github.com/A-RYAN-KR/Portfolio_Builder) | AI-powered full-stack portfolio builder utilizing WebContainer API. | TypeScript | ![Stars](https://img.shields.io/github/stars/A-RYAN-KR/Portfolio_Builder?style=flat-square) |
-| 🔐 [Steganography](https://github.com/A-RYAN-KR/Steganography) | Multi-modal steganography tool to hide text or media in other media. | Python | ![Stars](https://img.shields.io/github/stars/A-RYAN-KR/Steganography?style=flat-square) |
-
----
-
 ### 📊 GitHub Analytics & Streak
 
 <p align="center">
   <a href="https://github.com/A-RYAN-KR">
-    <img src="https://github-readme-stats.vercel.app/api?username=A-RYAN-KR&show_icons=true&theme=dracula&hide_border=false&border_radius=5" alt="Aryan's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=A-RYAN-KR&show_icons=true&theme=dracula&hide_border=false&border_radius=5" alt="Aryan's GitHub Stats" height="180" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/A-RYAN-KR">
     <img src="https://streak-stats.demolab.com?user=A-RYAN-KR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="Aryan's Streak Stats" height="180" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/A-RYAN-KR">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-RYAN-KR&layout=compact&theme=dracula&hide_border=false&border_radius=5" alt="Aryan's Top Languages" height="180" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=A-RYAN-KR&layout=compact&theme=dracula&hide_border=false&border_radius=5" alt="Aryan's Top Languages" height="180" />
   </a>
 </p>
